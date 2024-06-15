@@ -26,7 +26,7 @@ Space Shooter Game es un juego de arcade en 2D desarrollado con Pygame. El objet
 
 1. Clona este repositorio en tu máquina local:
     ```sh
-    git clone https://github.com/tu_usuario/space-shooter-game.git
+    git clone https://github.com/lduquef/pygame.git
     ```
 2. Navega al directorio del proyecto:
     ```sh
